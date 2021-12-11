@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/starsanjeetshop/PilelineTest/_apis/build/status/starsanjeetGH.js-e2e-express-server?branchName=main)](https://dev.azure.com/starsanjeetshop/PilelineTest/_build/latest?definitionId=5&branchName=main)
 ---
 page_type: sample
 languages:
